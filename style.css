@@ -1,0 +1,91 @@
+﻿body
+{
+	background-color: #777;
+	align-content: center;
+	margin-left: 150px;
+	max-width: 960px;
+	margin-right: 150px;
+}
+h1
+{
+	Position: relative;
+	display: inline;
+	background-color: darkcyan;
+	color: white;
+	font-family: 'ariel', 'helvetica nue', 'san-serif';
+	font-size: 20px;
+	margin-top: 10px;
+	margin-bottom: 0px;
+	float: left;
+}
+.nav-container
+{
+	position:absolute;
+	top:20px;
+	right:600px;
+	float: right;
+}
+.sidebar
+{
+    position:fixed;
+    align-content:center;
+	top: 10px;
+	right:550px;
+	width: 270px;
+	margin-top: 40px;
+}
+.sidetext
+{
+    text-align:center;
+
+
+}
+.giticonb
+{
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 0px;
+}
+.iniconb
+{
+    border:1px solid #ddd;
+	border-radius:4px;
+	padding:0px;
+		
+}
+.stackiconb 
+{
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 0px;
+    
+}
+h2
+{
+	position: absolute;
+	border-bottom: 3px solid grey;
+	width:540px;
+	padding-right: 0px;
+	margin-top: 80px;
+	margin-left: 20px;
+	margin-bottom: 0;
+}
+.main-section
+{
+	position: relative;
+	width:580px;
+    height:600px;
+	right:110px;
+    border:1px solid grey;
+    margin-top: 50px;
+	margin-right: 0px;
+    float:left;
+}
+.footer
+{
+	position:fixed;
+    text-align: center;
+	bottom: 0;
+	left:0;
+	width: 100%;
+}
